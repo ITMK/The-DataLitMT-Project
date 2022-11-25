@@ -6,6 +6,12 @@ The project's results will be didactic resources to teach the various sub-compet
 
 This project is led by Professor Ralph Krüger. Also working on this project are Research Associate Janiça Hackenbuchner, Research Assistant Andre Busch and Professor Jürgen Esch.
 
+## Links
+
+You can also access our [ GitHub account](https://github.com/ITMK/DataLitMT). On this account you will find learning resoures and code made available by the DataLitMT team.
+
+Check out our [ University website](https://www.th-koeln.de/informations-und-kommunikationswissenschaften/datalitmt--teaching-data-literacy-in-the-context-of-machine-translation-literacy_85011.php) for more information on this project.
+
 ## Topics
 
 This project covers the following.
