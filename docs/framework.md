@@ -8,31 +8,11 @@ Here we'll have the frameworks
 
 *Professional MT Literacy Framework*
 
-## Data Literacy 
+## DataLitMT 
 
 ![Alt-Text](img/DataLitMT-framework.png)
 
 *DataLitMT Framework*
-
-### Data Context
-
-hh
-
-### Data Planning
-
-kk
-
-### Data Collection and Production
-
-lll
-
-### Data Evaluation
-
-eee
-
-### Data Use
-
-ddd
 
 ## Comparison
 

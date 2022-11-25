@@ -1,19 +1,21 @@
 # Competence Categories
 
-here 
-
-## 1
-
-dd
-
-## 2
-
-ff
-
-## 3
+## Data Context
 
 hh
 
-## 4
+## Data Planning
 
-aa
+kk
+
+## Data Collection and Production
+
+lll
+
+## Data Evaluation
+
+eee
+
+## Data Use
+
+ddd
