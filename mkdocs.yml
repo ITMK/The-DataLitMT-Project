@@ -1,6 +1,6 @@
 site_name: Anleitung
 nav:
-  #- Home: index.md
+  - Home: index.md
   # - Kleiner Blindtext: blindtext.md
   #- Wortberge: wortberge.md
 theme:
