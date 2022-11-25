@@ -1,10 +1,10 @@
 h1 {
-   color: #2980B9;
+   color: #b9293f;
 }
 
 .wy-side-nav-search:before{
    content: '';
-   height: 40px;
+   height: 60px;
    width: 100%;
    display: block;
    background-image: url(KeyVisual.jpg);

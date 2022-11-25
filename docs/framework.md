@@ -1,15 +1,21 @@
 # Framework
 
-Here we'll have the frameowrks
+Here we'll have the frameworks
 
 ## Professional MT Literacy
 
-xyz
+![Alt-Text](img/MT-literacy-framework.png)
+
+*Professional MT Literacy Framework*
 
 ## Data Literacy 
 
-here
+![Alt-Text](img/DataLitMT-framework.png)
+
+*DataLitMT Framework*
 
 ## Comparison
 
-here
+![Alt-Text](img/Competence-map.png)
+
+*Competence Map*
