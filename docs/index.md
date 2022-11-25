@@ -15,3 +15,6 @@ Check out our [ University website](https://www.th-koeln.de/informations-und-kom
 ## Topics
 
 This project covers the following.
+
+
+*Open Educational Resources under CC license*
