@@ -1,4 +1,4 @@
-site_name: Anleitung
+site_name: DataLitMT
 nav:
   - Home: index.md
   - Literature: literature.md
