@@ -1,6 +1,10 @@
 site_name: Anleitung
 nav:
   - Home: index.md
+  - Literature: literature.md
+  - Frameworks: framework.md
+  - Categories: categories.md
+  - Learning Resources: resources.md
   # - Kleiner Blindtext: blindtext.md
   #- Wortberge: wortberge.md
 theme:
