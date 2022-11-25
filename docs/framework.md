@@ -14,6 +14,26 @@ Here we'll have the frameworks
 
 *DataLitMT Framework*
 
+### Data Context
+
+hh
+
+### Data Planning
+
+kk
+
+### Data Collection and Production
+
+lll
+
+### Data Evaluation
+
+eee
+
+### Data Use
+
+ddd
+
 ## Comparison
 
 ![Alt-Text](img/Competence-map.png)

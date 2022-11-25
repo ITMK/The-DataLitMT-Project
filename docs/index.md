@@ -6,6 +6,6 @@ The project's results will be didactic resources to teach the various sub-compet
 
 This project is led by Professor Ralph Krüger. Also working on this project are Research Associate Janiça Hackenbuchner, Research Assistant Andre Busch and Professor Jürgen Esch.
 
-## Layout
+## Topics
 
 This project covers the following.
