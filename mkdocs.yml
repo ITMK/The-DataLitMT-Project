@@ -8,13 +8,15 @@ nav:
   # - Kleiner Blindtext: blindtext.md
   #- Wortberge: wortberge.md
 theme:
-  name: readthedocs
+  remote_theme: pages-themes/cayman@v0.2.0
+  #name: readthedocs
   #name: null
   #custom_dir: 'minimal-theme/'
 extra_css:
   - extra.css
 use_directory_urls: true
 plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
   - search:
       lang: de
 dev_addr: '0.0.0.0:8080'
