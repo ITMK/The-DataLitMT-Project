@@ -8,8 +8,8 @@ nav:
   # - Kleiner Blindtext: blindtext.md
   #- Wortberge: wortberge.md
 theme:
-  remote_theme: pages-themes/cayman@v0.2.0
-  name: minima #cayman@v0.2.0 #readthedocs
+  #remote_theme: pages-themes/cayman@v0.2.0
+  name: readthedocs
   #name: null
   #custom_dir: 'minimal-theme/'
 extra_css:
