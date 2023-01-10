@@ -7,6 +7,7 @@ h1 {
    height: 60px;
    width: 100%;
    display: block;
+   background-image: url(KeyVisual_tr_250.png);
    background-repeat: no-repeat;
    background-position: center center;
    margin-bottom: 20px;
