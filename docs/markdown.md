@@ -1,7 +1,7 @@
 # Styling mit Markdown-Syntax
 
 ## Links
-Hier geht es [ intern zu den Wortbergen](wortberge.md) und hier
+Hier geht es [ intern zu den Kategorien](categories.md) und hier
 [ hier zu LinkedIn](https://linkedin.com).
 
 Wenn Sie den Link in einem neuen Tab öffnen wollen, müssen Sie HTML verwenden

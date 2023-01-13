@@ -4,11 +4,18 @@ h1 {
 
 .wy-side-nav-search:before{
    content: '';
-   height: 60px;
-   width: 100%;
+   height: 117px;
+   width: 250px;
    display: block;
-   background-image:url(KeyVisual.jpg);
+   background-image: url(KeyVisual_tr_250.png);
+   background-color: white;
    background-repeat: no-repeat;
    background-position: center center;
    margin-bottom: 20px;
 }
+
+.wy-side-nav-search{ background: white}
+.wy-nav-side{ background: white}
+.wy-nav-top{ background: rgb(160,160,160)}
+.wy-nav-content-wrap{ background: white}
+.wy-nav-content{ background: white}
